@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+      //Look this is the layout i am linking
         setContentView(R.layout.activity_main);
     }
 }
